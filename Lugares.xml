@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Lugares>
+    <Pais nombre="Colombia">
+        <Ciudad nombre ="Cucuta">
+            <latitud>7.8942 </latitud>
+            <longitud>-72.5039 </longitud>
+        </Ciudad>
+        <Ciudad nombre ="Medellin">
+            <latitud>6.2359 </latitud>
+            <longitud>-75.5751 </longitud>
+        </Ciudad>
+        <Ciudad nombre ="Barranquilla">
+            <latitud>10.9642</latitud>
+            <longitud>-74.797</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Cali">
+            <latitud>3.4206</latitud>
+            <longitud>-76.5222</longitud>
+        </Ciudad>
+    </Pais>
+    
+    <Pais nombre="Venezuela">
+        <Ciudad nombre ="Merida">
+            <latitud>8.6</latitud>
+            <longitud>-71.15</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Caracas">
+            <latitud>10.5004</latitud>
+            <longitud>-66.9511</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Barinas">
+            <latitud>8.6231</latitud>
+            <longitud>-70.2371</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Aragua">
+            <latitud>10.2313</latitud>
+            <longitud>-67.2848</longitud>
+        </Ciudad>
+    </Pais>
+    
+    <Pais nombre="Brasil">
+        <Ciudad nombre ="Amazonas">
+            <latitud>-3.4168</latitud>
+            <longitud>-65.8561</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Brasilia">
+            <latitud>-15.7801</latitud>
+            <longitud>-47.9292</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Sao Pablo">
+            <latitud>-15.7801</latitud>
+            <longitud>-47.9292</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Rio de Janeiro">
+            <latitud>-22.9134</latitud>
+            <longitud>-43.2007</longitud>
+        </Ciudad>
+    </Pais>
+    
+    <Pais nombre="Peru">
+        <Ciudad nombre ="Lima">
+            <latitud>-12.0478</latitud>
+            <longitud>-77.0622</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Arequipa">
+            <latitud>-16.3988</latitud>
+            <longitud>-71.5369</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Trujillo">
+            <latitud>-8.1091</latitud>
+            <longitud>-79.0215</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Chiclayo">
+            <latitud>-6.7766</latitud>
+            <longitud>-79.8465</longitud>
+        </Ciudad>
+    </Pais>
+    
+    <Pais nombre="Argentina">
+        <Ciudad nombre ="Buenos Aires">
+            <latitud>-34.6037</latitud>
+            <longitud>-58.3816</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Santa Fe">
+            <latitud>-31.6324</latitud>
+            <longitud>-60.6995</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Cordoba">
+            <latitud>-31.3989</latitud>
+            <longitud>-64.1821</longitud>
+        </Ciudad>
+        <Ciudad nombre ="Misiones">
+            <latitud>-27.4269</latitud>
+            <longitud>-55.9467</longitud>
+        </Ciudad>
+    </Pais>
+</Lugares>
